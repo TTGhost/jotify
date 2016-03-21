@@ -1,13 +1,7 @@
-This is ongoing work and probably needs some restructuring and
-theres few documentation :)
-
-Greets to the despotify team and #hack.se!
-
-Dependancies:
-	- JOrbis               ( http://www.jcraft.com/jorbis/ )
-
-Extra dependancies (GUI):
+Dependencies
+---------
+	- jorbis               ( http://www.jcraft.com/jorbis/ )
 	- last.fm API bindings ( http://www.u-mass.de/lastfm )
-	
-Extra dependancies (Gateway):
-	- org.json             ( http://www.json.org/java )
+	- json                 ( http://www.json.org/java )
+
+I really think the dependencies are already included..
