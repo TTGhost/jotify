@@ -1,3 +1,4 @@
+# Deprecated but still in action.
 Copyright (c) 2009, Felix Bruns <felixbruns@web.de>
 All rights reserved.
 
