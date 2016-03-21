@@ -1,4 +1,4 @@
-Dependencies
+# Dependencies
 ---------
 	- jorbis               ( http://www.jcraft.com/jorbis/ )
 	- last.fm API bindings ( http://www.u-mass.de/lastfm )
